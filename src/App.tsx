@@ -1,8 +1,9 @@
-import HomePage from './pages/Page'
+import AppRoutes from './routes'
+
 const App = () => {
   return (
     <div>
-      <HomePage/>
+      <AppRoutes/>
     </div>
   )
 }
